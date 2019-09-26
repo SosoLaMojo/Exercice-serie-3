@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(38,17): warning C4244:  'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(67,62): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(67,56): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(72,66): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(72,60): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(77,68): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(77,62): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(88,63): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Exercice 3.3 Loops\main.cpp(88,57): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+  Exercice 3.3 Loops.vcxproj -> C:\Users\Solange\source\repos\SAE Institute\Exercices Loops\Exercice 3.3 Loops\Debug\Exercice 3.3 Loops.exe
